@@ -1,0 +1,1 @@
+Yesterday, me and my friend goed to the park for playing frisbee. We was having so much fun, but then it started raining, and we didn't bring no umbrella. So, we gets all wet and had to run fastly to the car. I ain't never seen rain like that before!
