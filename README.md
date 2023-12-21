@@ -17,7 +17,6 @@ Clicking on any contact in the Directory displays a side panel with valuable inf
 | **Number of transactions**          | Displays the total number of transactions linked to the contact.                                      |
 | **List of transactions**            | All transactions associated with the selected contact, including their date, description, and amount. |
 
-
 This detailed view offers a comprehensive overview of your financial interactions with that contact.
 
 ## Manage your contacts
@@ -34,7 +33,7 @@ To do so, select both contacts you wish to merge, and a side panel will open wit
 
 If you no longer require a contact in your Directory, you can delete it. This helpful feature enables you to maintain a clean and relevant contact list that aligns with your business requirements.
 
-By deleting a contact, SOLO'll restore the transactions linked to it to their original bank narration or leave them unnamed.
+By deleting a contact, SOLO will restore the transactions linked to it to their original bank narration or leave them unnamed.
 
 ## SOLO's smart search
 
