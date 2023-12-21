@@ -19,14 +19,15 @@ jobs:
     steps:
       - name: Checkout
         # Checks out the repository code
-        uses: actions/checkout@master
+        uses: actions/checkout@v3
 
       - name: Vale
         # Uses the Vale action for linting
-        uses: errata-ai/vale-action@v1.4.2
+        # uses: errata-ai/vale-action@v1.4.2
+        uses: errata-ai/vale-action@reviewdog
         with:
           debug: true
-          styles: |
-            https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
-            https://github.com/errata-ai/Google/releases/latest/download/Google.zip
-            https://github.com/errata-ai/Joblint/releases/download/v0.4.1/Joblint.zip
+          # styles: |
+            # https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
+            # https://github.com/errata-ai/Google/releases/latest/download/Google.zip
+            # https://github.com/errata-ai/Joblint/releases/download/v0.4.1/Joblint.zip
